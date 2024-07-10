@@ -28,10 +28,15 @@ src="https://img.shields.io/github/followers/thiepcong?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/thiepcong"><img src="https://github-readme-stats.vercel.app/api?username=thiepcong&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="thiepcong's GitHub stats" /></a>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thiepcong" alt="thiepcong" /></p>
 
-<a href="http://www.github.com/thiepcong"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thiepcong&stroke=ffffff&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+[![thiepcong's github stats](https://github-readme-stats.vercel.app/api?username=thiepcong&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/thiepcong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiepcong&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/thiepcong)
+[![thiepcong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thiepcong&layout=compact&bg_color=ffffff)](https://github.com/thiepcong)
 
-<a href="http://www.github.com/thiepcong"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=thiepcong&bg_color=ffffff&color=000000&line=22c55e&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/thiepcong"><img src="https://github-readme-stats.vercel.app/api?username=thiepcong&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="thiepcong's GitHub stats" /></a>
 
-<a href="https://github.com/thiepcong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiepcong&langs_count=10&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/thiepcong"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thiepcong&stroke=000000&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+
+<a href="https://github.com/thiepcong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiepcong&langs_count=10&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
