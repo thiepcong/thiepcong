@@ -24,6 +24,21 @@ src="https://img.shields.io/github/followers/thiepcong?logo=github&style=for-the
 
 <p align="left"> <a href="https://www.facebook.com/pham.thiep.5209" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/thiepcong" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@congthieppham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
+
+<p align="center">
+   <code>Visitor count</code>
+   <img src="https://profile-counter.glitch.me/thiepcong/count.svg" />
+</p>
+  
+  ### My apps
+  
+  #### ⚡ Mobile Marvels, Woven By PCT Innovations
+  
+  [<img src="https://play.google.com/intl/ja/badges/static/images/badges/en_badge_web_generic.png" alt="You can install the production app via Get it on Google Play" width="256px">](https://play.google.com/store/apps/dev?id=5241296680413671492)
+  
+I'm Pham Cong Thiep, specializing in developing mobile applications and games. I'm thrilled to connect and explore mobile technology together!
+  
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -32,11 +47,3 @@ src="https://img.shields.io/github/followers/thiepcong?logo=github&style=for-the
 
 [![thiepcong's github stats](https://github-readme-stats.vercel.app/api?username=thiepcong&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/thiepcong)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiepcong&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/thiepcong)
-[![thiepcong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thiepcong&layout=compact&bg_color=ffffff)](https://github.com/thiepcong)
-
-<!-- <a href="http://www.github.com/thiepcong"><img src="https://github-readme-stats.vercel.app/api?username=thiepcong&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="thiepcong's GitHub stats" /></a>
-
-<a href="http://www.github.com/thiepcong"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thiepcong&stroke=000000&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-
-<a href="https://github.com/thiepcong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiepcong&langs_count=10&title_color=22c55e&text_color=000000&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
