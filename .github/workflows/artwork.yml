@@ -1,0 +1,24 @@
+name: gitartwork from a contribution graph
+on:
+  push:
+  schedule:
+    - cron: '* */23 * * *'
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+          # Use this username's contribution graph
+          user_name: thiepcong
+          # Text on contribution graph
+          text: Pham Cong Thiep
+      - uses: stefanzweifel/git-auto-commit-action@v4.14.1
+        with:
+          commit_message: Update action output
+          file_pattern: gitartwork.svg
+          commit_user_name: thiepcong
+          commit_user_email: thiepcong@gmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
+          commit_author: PhamCongThiep <thiepcong12@gmail.com> # defaults to author of the commit that triggered the ru
