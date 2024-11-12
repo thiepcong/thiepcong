@@ -20,5 +20,5 @@ jobs:
           commit_message: Update action output
           file_pattern: gitartwork.svg
           commit_user_name: thiepcong
-          commit_user_email: thiepcong@gmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
-          commit_author: PhamCongThiep <thiepcong12@gmail.com> # defaults to author of the commit that triggered the ru
+          commit_user_email: thiepcong12@gmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
+          commit_author: Phạm Công Thiệp <thiepcong12@gmail.com> # defaults to author of the commit that triggered the ru
