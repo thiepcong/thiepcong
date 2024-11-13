@@ -39,4 +39,4 @@ jobs:
           file_pattern: dist/github-contribution-grid-snake.svg
           commit_user_name: thiepcong
           commit_user_email: thiepcong12@gmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
-          commit_author: Phạm Công Thiệp <thiepcong12@gmail.com> # defaults to author of the commit that triggered the run
+          commit_author: thiepcong <thiepcong12@gmail.com> # defaults to author of the commit that triggered the run
