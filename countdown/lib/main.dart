@@ -67,7 +67,7 @@ Single<void> send({
 *❤️Countdown❤️*
 -------------------
 
-Còn ${newYearDay.difference(now).inDays} ngày nữa là Tết Dương.
+Còn ${tetHoliday.difference(now).inDays} ngày nữa là Tết Âm.
 Have a nice day ❤️!
 --------------------------------------
 - This message is sent by a bot (https://github.com/thiepcong/thiepcong).
