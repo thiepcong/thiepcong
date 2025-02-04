@@ -55,8 +55,8 @@ Single<void> send({
     useCancellationToken((cancelToken) {
       final now = DateTime.now();
       final noelDay = DateTime(2024, 12, 25);
-      final newYearDay = DateTime(2025, 1, 1);
-      final tetHoliday = DateTime(2025, 1, 29);
+      final newYearDay = DateTime(2026, 1, 1);
+      final tetHoliday = DateTime(2026, 2, 17);
 
       final uri = Uri.https(
         'api.telegram.org',
@@ -66,7 +66,7 @@ Single<void> send({
           'text': '''
 *❤️Countdown❤️*
 -------------------
-
+Còn ${newYearDay.difference(now).inDays} ngày nữa là Tết Dương.
 Còn ${tetHoliday.difference(now).inDays} ngày nữa là Tết Âm.
 Have a nice day ❤️!
 --------------------------------------
